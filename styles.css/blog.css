@@ -1,0 +1,30 @@
+#header {
+    /* background-image: url('neymar.jfif'); */
+    background-image: url(../images/neymar.jfif);
+    
+    background-color: rgb(7, 34, 57);
+    background-repeat: no-repeat;
+    background-size:cover;
+
+    
+    /* position: relative; */
+    height: 200px;
+}
+
+#page-title {
+    color: blueviolet;
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+    border: 2px solid violet;
+    border-radius: 12px;
+    background-color: rgb(119, 161, 239);
+    margin: 5px;
+}
+
+.title {
+    color: rgb(59, 2, 45);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
